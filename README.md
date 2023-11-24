@@ -84,5 +84,4 @@ In a simulated Tech Solutions company, students are tasked with creating an appl
 - Critically analyze the complexity of both algorithms in reference to their data structure implementations.
 
 ## Feedback and Recognition
-
-The feedback from the Doctor of Data Structures and Algorithms acknowledges the student's achievement in examining ADT, implementing sorting algorithms, and analyzing the operation of shortest-path algorithms. The successful completion of tasks demonstrates a thorough understanding of abstract data types, algorithm effectiveness, and critical analysis of algorithmic complexity.
+Feedback from the Dr of Data Structures and Algorithms acknowledges my achievement in examining ADT, implementing sorting algorithms, and analyzing the operation of shortest path algorithms. Successful completion of assignments demonstrates a thorough understanding of abstract data types, algorithm effectiveness, and critical analysis of algorithm complexity.
