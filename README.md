@@ -1,13 +1,15 @@
-# Data Structures and Algorithms Project Overview
+
 
 ![Screenshot (1126)](https://github.com/RashidHasan/MacDonalds-Services-Application/assets/136935583/ff7a8e59-6492-47dc-9296-672d3713adae)
 
 
 ## Project Title: MacDonald's Services Application
 
+### Data Structures and Algorithms Project Overview
+
 ### Unit Learning Outcomes
 - **LO1: Examination of Abstract Data Types, Concrete Data Structures, and Algorithms:**
-  The project involves a detailed examination of abstract data types, concrete data structures, and algorithms to design and build a robust software solution for MacDonalds.
+  The project involves a detailed examination of abstract data types, concrete data structures, and algorithms to design and build a robust software solution for MacDonald's.
 
 - **LO2: Specification of Abstract Data Types and Algorithms:**
   The project requires specifying abstract data types using formal notation and implementing them to address the specific requirements of handling orders, implementing a queue, and optimizing order processing.
