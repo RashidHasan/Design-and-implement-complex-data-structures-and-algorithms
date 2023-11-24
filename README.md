@@ -17,7 +17,7 @@
 
 - Algorithm Comparison and Assessment (Critical Thinking): Teaching students to compare different algorithms and assess their effectiveness in handling orders and optimizing the delivery process.
 
--Identifying Program Data Requirements (Problem Solving): Developing the ability to identify program data requirements and translate them into concrete data structures, enhancing problem-solving skills.
+- Identifying Program Data Requirements (Problem Solving): Developing the ability to identify program data requirements and translate them into concrete data structures, enhancing problem-solving skills.
 
 - Formal Notation and Implementation (Technical Proficiency): Enhancing technical proficiency by specifying abstract data types using formal notation and implementing them using Object-Oriented Programming principles.
 
