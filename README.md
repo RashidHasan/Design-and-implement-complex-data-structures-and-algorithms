@@ -1,10 +1,10 @@
 # Data Structures and Algorithms Project Overview
 ## Project Title: MacDonald's Services Application
 ### Unit Learning Outcomes
-1- Examination of Abstract Data Types, Concrete Data Structures, and Algorithms (LO1): The project involves a detailed examination of abstract data types, concrete data structures, and algorithms to design and build a robust software solution for MacDonalds.
-2- Specification of Abstract Data Types and Algorithms (LO2): The project requires specifying abstract data types using formal notation and implementing them to address the specific requirements of handling orders, implementing a queue, and optimizing order processing.
-3- Implementation of Complex Data Structures and Algorithms (LO3): Students will implement complex data structures, such as queues and stacks, and develop sorting algorithms like merge sort and insertion sort to enhance the order handling system.
-4- Assessment of Effectiveness of Data Structures and Algorithms (LO4): The project emphasizes assessing the effectiveness of implemented data structures and algorithms, as demonstrated by comparing the performance of sorting algorithms and critically analyzing the shortest path algorithms.
+- Examination of Abstract Data Types, Concrete Data Structures, and Algorithms (LO1): The project involves a detailed examination of abstract data types, concrete data structures, and algorithms to design and build a robust software solution for MacDonalds.
+- Specification of Abstract Data Types and Algorithms (LO2): The project requires specifying abstract data types using formal notation and implementing them to address the specific requirements of handling orders, implementing a queue, and optimizing order processing.
+- Implementation of Complex Data Structures and Algorithms (LO3): Students will implement complex data structures, such as queues and stacks, and develop sorting algorithms like merge sort and insertion sort to enhance the order handling system.
+- Assessment of Effectiveness of Data Structures and Algorithms (LO4): The project emphasizes assessing the effectiveness of implemented data structures and algorithms, as demonstrated by comparing the performance of sorting algorithms and critically analyzing the shortest path algorithms.
 
 ### Transferable Skills and Competencies Developed
 
