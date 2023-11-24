@@ -3,7 +3,7 @@
 ![Screenshot (1126)](https://github.com/RashidHasan/MacDonalds-Services-Application/assets/136935583/ff7a8e59-6492-47dc-9296-672d3713adae)
 
 
-## Project Title: MacDonald's Services Application
+# Project Title: MacDonald's Services Application
 
 ## Data Structures and Algorithms Project Overview
 
