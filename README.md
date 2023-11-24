@@ -5,7 +5,7 @@
 
 ## Project Title: MacDonald's Services Application
 
-### Data Structures and Algorithms Project Overview
+## Data Structures and Algorithms Project Overview
 
 ### Unit Learning Outcomes
 - **LO1: Examination of Abstract Data Types, Concrete Data Structures, and Algorithms:**
