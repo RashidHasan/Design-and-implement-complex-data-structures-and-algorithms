@@ -11,17 +11,17 @@
 
 ### Transferable Skills and Competencies Developed
 
-This project contributes to the development of transferable skills and competencies by:
+#### This project contributes to the development of transferable skills and competencies by:
 
-    Design and Building Data Structures (Practice): Providing practice in designing and building data structures to meet specific requirements, mimicking real-world scenarios in a Tech Solutions company.
+- Design and Building Data Structures (Practice): Providing practice in designing and building data structures to meet specific requirements, mimicking real-world scenarios in a Tech Solutions company.
 
-    Algorithm Comparison and Assessment (Critical Thinking): Teaching students to compare different algorithms and assess their effectiveness in handling orders and optimizing the delivery process.
+- Algorithm Comparison and Assessment (Critical Thinking): Teaching students to compare different algorithms and assess their effectiveness in handling orders and optimizing the delivery process.
 
-    Identifying Program Data Requirements (Problem Solving): Developing the ability to identify program data requirements and translate them into concrete data structures, enhancing problem-solving skills.
+-Identifying Program Data Requirements (Problem Solving): Developing the ability to identify program data requirements and translate them into concrete data structures, enhancing problem-solving skills.
 
-    Formal Notation and Implementation (Technical Proficiency): Enhancing technical proficiency by specifying abstract data types using formal notation and implementing them using Object-Oriented Programming principles.
+- Formal Notation and Implementation (Technical Proficiency): Enhancing technical proficiency by specifying abstract data types using formal notation and implementing them using Object-Oriented Programming principles.
 
-Vocational Scenario
+## Vocational Scenario
 
 In a simulated Tech Solutions company, students are tasked with creating an application to handle various services for MacDonalds, focusing on features like order handling, sorting algorithms for efficient order processing, and implementing a delivery feature.
 Assignment Activity and Guidance
