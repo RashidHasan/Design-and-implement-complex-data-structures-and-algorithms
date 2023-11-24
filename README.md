@@ -11,7 +11,7 @@
 
 ### Transferable Skills and Competencies Developed
 
-#### This project contributes to the development of transferable skills and competencies by:
+This project contributes to the development of transferable skills and competencies by:
 
 - Design and Building Data Structures (Practice): Providing practice in designing and building data structures to meet specific requirements, mimicking real-world scenarios in a Tech Solutions company.
 
